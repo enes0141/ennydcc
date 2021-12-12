@@ -1,0 +1,14 @@
+{
+  "name": "ennydark",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node enny.js"
+  },
+  "author": "EnnyDark",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
